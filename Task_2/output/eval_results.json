@@ -1,0 +1,20 @@
+{
+  "RAW": {
+    "attr_precision_at_5": 0.065,
+    "attr_mrr_at_10": 0.136,
+    "cat_precision_at_5": 0.372,
+    "cat_mrr_at_10": 0.54,
+    "intra_sim": 0.4581,
+    "inter_sim": 0.1154,
+    "intra_inter_ratio": 3.968
+  },
+  "PROJECTED": {
+    "attr_precision_at_5": 0.488,
+    "attr_mrr_at_10": 0.595,
+    "cat_precision_at_5": 0.303,
+    "cat_mrr_at_10": 0.466,
+    "intra_sim": 0.9484,
+    "inter_sim": 0.0299,
+    "intra_inter_ratio": 31.771
+  }
+}
